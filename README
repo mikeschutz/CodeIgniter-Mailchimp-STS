@@ -1,4 +1,6 @@
-CodeIgniter-Mailchimp-STS is a simple CodeIgniter library to interface with the Mailchimp STS API.
+#CodeIgniter-Mailchimp-STS
+
+A simple CodeIgniter library to interface with the Mailchimp STS API.
 
 Drop the files into your CodeIgniter application folder and insert your Mailchimp API key into the config file, then you're good to go.
 
